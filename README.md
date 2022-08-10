@@ -1,4 +1,14 @@
-Live Server: https://resplendent-travesseiro-d091ab.netlify.app/
+> # To-Do List utilizando React
+>
+> > Live Server: https://resplendent-travesseiro-d091ab.netlify.app/
+> >
+> > Download To-Do List utilizando o git:
+> > ### `git clone https://github.com/Luis-Felipe-Gongora-Garcia/Jogo-da-Mem-ria`
+> >
+> > ## Como Funciona o To-Do List
+> > Ao iniciar o [Live Server](https://resplendent-travesseiro-d091ab.netlify.app/), notará um botão + ao lado superior direito do navegador, ao clicar nesse botão, vai abrir uma caixa em branco no meio da tela pra você digitar sua primeira tarefa, depois de digitado e clicado em add, vai aparecer sua primeira tarefa no navegador, e ao lado direito dois botões, um pra marcar que ja foi feito, e outro pra deletar a tarefa.
+
+Live Server: 
 
 ---
 
