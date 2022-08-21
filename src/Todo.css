@@ -4,6 +4,7 @@
 .container {
   margin: auto;
   width: 50%;
+  padding-top: 1rem;
 }
 .done {
   text-decoration: line-through;
