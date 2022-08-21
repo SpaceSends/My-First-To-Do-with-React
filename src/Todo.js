@@ -50,7 +50,7 @@ function Todo() {
   return (
     <div className="container">
       <header className="header">
-        <h1>Todo</h1>
+        <h1>To-Do List</h1>
         <button
           onClick={() => {
             setShowModal(true);
